@@ -2,6 +2,8 @@
 
 Ao pressionar uma tecla, a letra correspondente é exibida grande no centro da tela, sempre em uma cor diferente e com seu respectivo áudio
 
+![](alfabeto.png)
+
 ## Erro
 
 Quando se pressiona qualquer tecla diferente do alfabeto, aparece um áudio indicando um erro.
